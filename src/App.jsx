@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import Player from "./Component/Player.jsx";
 import GameBoard from "./Component/GameBoard.jsx";
 import Log from "./Component/Log.jsx";
